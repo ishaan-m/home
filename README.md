@@ -1,7 +1,7 @@
 # [Developer's Portfolio](https://ishaan-m.github.io)
 
 
-It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects. Site URL / Demo: [ishaan-m.github.io](https://ishaan-m.github.io).
+It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects. Site URL / Demo: [ishaan-m.github.io/home](https://ishaan-m.github.io/home).
 
 ## Table of Contents
 
