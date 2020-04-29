@@ -1,42 +1,42 @@
 {
   "backgroundType": "gradient",
   "plainBackgroundMode": "daylight",
-  "devIntro": "Hashir Shoaib",
-  "devDesc": "| Engineer | Programmer | Web Developer | Photographer | Athlete | Artist ",
+  "devIntro": "Ishaan Manudhane",
+  "devDesc": "| Engineer | Programmer | Coder | Gym Enthusiast | Movie Buff ",
   "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
   "icons": [
     {
       "id": 0,
       "image": "fa-github",
-      "url": "https://github.com/hashirshoaeb",
+      "url": "https://github.com/ishaan-m",
       "style": "socialicons"
     },
     {
       "id": 1,
       "image": "fa-facebook",
-      "url": "https://www.facebook.com/hashir.shoaeb",
+      "url": "https://www.facebook.com/ishaan.manudhane",
       "style": "socialicons"
     },
     {
       "id": 2,
       "image": "fa-instagram",
-      "url": "https://www.instagram.com/hashirshoaeb/",
+      "url": "https://www.instagram.com/ishaan_mde/",
       "style": "socialicons"
     },
     {
       "id": 3,
       "image": "fa-linkedin",
-      "url": "https://www.linkedin.com/in/hashir-shoaeb/",
+      "url": "https://www.linkedin.com/in/ishaan-manudhane",
       "style": "socialicons"
     }
   ],
   "instaLink": "https://www.instagram.com/",
-  "instaUsername": "hashirshoaeb",
+  "instaUsername": "ishaan_mde",
   "instaQuerry": "/?__a=1",
   "showInstaProfilePic": true,
-  "aboutDev": "A final year Computer Engineer from NUST CEME, Pakistan with 3+ years experience in web development and passion to teach machines think. I’m currently the Vice President of student body at Emerging Technologies Research Lab(ETL) and a former Intern at RiseTech.",
+  "aboutDev": "A pre-final year Computer Engineer from BITS Pilani Goa, India with 3+ years experience in solving problems and passion to learn more.",
   "gitHubLink": "https://api.github.com/users/",
-  "gitHubUsername": "hashirshoaeb",
+  "gitHubUsername": "ishaan-m",
   "gitHubQuerry": "/repos?sort=updated&direction=desc",
-  "projectsLength": 4
+  "projectsLength": 2
 }
