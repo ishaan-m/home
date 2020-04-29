@@ -3,7 +3,7 @@ import Configs from "../editable-stuff/configurations.json";
 import "bootstrap/dist/css/bootstrap.min.css";
 import axios from "axios";
 import "bootstrap/dist/js/bootstrap.bundle.min";
-import Pdf from "../editable-stuff/resume.pdf";
+import Pdf from "../editable-stuff/Ishaan_Manudhane_Resume.pdf";
 
 const AboutMe = () => {
   const [heading] = useState("About me");
