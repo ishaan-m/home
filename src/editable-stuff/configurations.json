@@ -3,7 +3,7 @@
   "plainBackgroundMode": "daylight",
   "devIntro": "Ishaan Manudhane",
   "devDesc": "| Engineer | Programmer | Coder | Gym Enthusiast | Movie Buff ",
-  "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
+  "gradientColors": "#E73C7E, #23A6D5, #23D5AB,#EE7752",
   "icons": [
     {
       "id": 0,
@@ -38,5 +38,5 @@
   "gitHubLink": "https://api.github.com/users/",
   "gitHubUsername": "ishaan-m",
   "gitHubQuerry": "/repos?sort=updated&direction=desc",
-  "projectsLength": 2
+  "projectsLength": 4
 }
